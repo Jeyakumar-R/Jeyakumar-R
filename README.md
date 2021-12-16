@@ -1,7 +1,7 @@
 ### Hi there, I am Jeya Kumar 👋
 
 <p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=OvinduWijethunge&color=brightgreen" alt="watching_count" />
+<img src="https://komarev.com/ghpvc/?username=Jeyakumar-R&color=brightgreen" alt="watching_count" />
  </p>
 
 I'm a Final Year student pursuing Master of Science in Data Analytics from Bharathiar University, Coimbatore. I'm a passionate learner who's always willing to learn and apply technologies across data science domain.  
