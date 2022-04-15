@@ -6,7 +6,7 @@
 
 I'm a Final Year student pursuing Master of Science in Data Analytics from Bharathiar University, Coimbatore. I'm a passionate learner who's always willing to learn and apply technologies across data science domain.  
 
-- 🌱 I’m currently learning python, R programming, Machine Learning (Primary)
+- 🌱 I’m currently learning Pyspark, Machine Learning (Primary)
 - 👯 I also know Sql, Python, Machine learning
 - 🤔 I’m looking for Internship in Data Science Field
 
